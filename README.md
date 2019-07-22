@@ -1,5 +1,5 @@
 # Testy
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML>
 <html>
 <head>
    <title>Strona zxc18</title>
