@@ -18,7 +18,7 @@
       </style>
 </head>
 <body>
-<h1><strong><div class="j" >W</div><div class="d" >i</div><div class="j" >t</div><div="d" >a</div><div class="j" >s</div></strong></h1>
+<h1><strong><span class="j" >W</span><span class="d" >i</span><span class="j" >t</span><span class="d" >a</span><span class="j" >s</span></strong></h1>
 
 
 
